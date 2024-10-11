@@ -1,1 +1,4 @@
 db_config.ini
+omop_db_config.ini
+conditions.feather
+all_subjects.feather
